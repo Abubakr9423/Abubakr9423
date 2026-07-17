@@ -1,161 +1,150 @@
 <div align="center">
 
-# 👋 Hi, I'm Abubakr Kurbonov
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=220&section=header&text=Abubakr%20Kurbonov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;TypeScript+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+Developer+%E2%9A%9B%EF%B8%8F;TypeScript+Enthusiast+%F0%9F%9A%80;Building+Modern+Web+Applications+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%8C%B1" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Abubakr9423&label=Profile+Views&color=22C55E&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-React%20%2F%20Next.js-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-# 💫 About Me
+## 💫 About Me
 
-💻 Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
-
-🚀 I enjoy creating beautiful interfaces with React and Next.js while focusing on performance and clean code.
-
-🌱 Currently improving my skills in advanced React architecture, TypeScript, and scalable web development.
-
-🎯 Goal: Become a Senior Frontend Engineer and build products used by millions.
-
----
-
-# 🚀 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abubakr9423&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr9423&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abubakr9423&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abubakr9423&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakr9423&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Skills
-
-```text
-React.js        ███████████████████░   95%
-
-Next.js         ██████████████████░░   92%
-
-TypeScript      █████████████████░░░   88%
-
-JavaScript      ███████████████████░   95%
-
-Tailwind CSS    ███████████████████░   94%
-
-HTML            ████████████████████   100%
-
-CSS             ███████████████████░   98%
-
-SASS            █████████████████░░░   90%
+```yaml
+name: Abubakr Kurbonov
+role: Frontend Developer
+focus: React.js • Next.js • TypeScript
+mission: Build beautiful, fast, and scalable web experiences
+currently_learning: Advanced React architecture & scalable frontend systems
+goal: Become a Senior Frontend Engineer, ship products used by millions
+fun_fact: I turn ☕ coffee into clean, pixel-perfect UI
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-# 🌟 Featured Projects
+## 🚀 Tech Stack
 
-### 🚀 ZazaTech
+<table align="center">
+<tr>
+<td align="center" width="200"><b>Languages</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma" /></td>
+</tr>
+</table>
 
-Modern software company website built with Next.js, TypeScript and Tailwind CSS.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+## 📊 GitHub Statistics
 
-### 📦 StockFlow
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abubakr9423&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=00000000&title_color=22C55E&icon_color=22C55E&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr9423&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=ffffff"/>
+</p>
 
-Inventory Management System for businesses.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abubakr9423&theme=github-dark-blue&hide_border=true&background=00000000&ring=22C55E&fire=0EA5E9&currStreakLabel=22C55E"/>
+</p>
 
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abubakr9423&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+</p>
 
-### 🍔 Zaza Food
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakr9423&theme=react-dark&hide_border=true&bg_color=00000000&color=22C55E&line=0EA5E9&point=ffffff"/>
+</p>
 
-Food delivery platform with modern UI.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+## 💻 Skills
 
-# ⚡ What I Love
+<p align="center">
 
-- ✨ Clean UI
-- 🚀 Performance Optimization
-- 📱 Responsive Design
-- 🎨 Beautiful Animations
-- ⚛️ React Ecosystem
-- 💚 Next.js
-- 🌍 Open Source
+`React.js`&nbsp;&nbsp;![95%](https://progress-bar.dev/95?color=22C55E&width=200)
 
----
+`Next.js`&nbsp;&nbsp;![92%](https://progress-bar.dev/92?color=22C55E&width=200)
 
-# 📫 Connect With Me
+`TypeScript`&nbsp;&nbsp;![88%](https://progress-bar.dev/88?color=22C55E&width=200)
+
+`JavaScript`&nbsp;&nbsp;![95%](https://progress-bar.dev/95?color=22C55E&width=200)
+
+`Tailwind CSS`&nbsp;&nbsp;![94%](https://progress-bar.dev/94?color=22C55E&width=200)
+
+`HTML`&nbsp;&nbsp;![100%](https://progress-bar.dev/100?color=22C55E&width=200)
+
+`CSS`&nbsp;&nbsp;![98%](https://progress-bar.dev/98?color=22C55E&width=200)
+
+`SASS`&nbsp;&nbsp;![90%](https://progress-bar.dev/90?color=22C55E&width=200)
+
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🚀 Currently Working On
+
+<div align="center">
+
+### 💚 ZaZaTechnologies
+
+Building modern web applications and digital solutions with a focus on:
+
+</div>
+
+<table align="center">
+<tr>
+<td>⚡ High-performance websites</td>
+<td>📱 Responsive user interfaces</td>
+</tr>
+<tr>
+<td>🚀 Next.js & React applications</td>
+<td>🎨 Modern UI/UX experiences</td>
+</tr>
+<tr>
+<td>🔒 Scalable and secure frontend architecture</td>
+<td>🌍 Innovative digital products</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## ⚡ What I Love
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| ✨ Building Modern Web Apps | ⚛️ React & Next.js | 💚 TypeScript |
+| 🎨 Beautiful UI/UX | 📱 Responsive Design | 🚀 Performance Optimization |
+| 🧩 Clean & Maintainable Code | 🌍 Open Source | |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📫 Connect With Me
 
 <p align="left">
-
 <a href="https://github.com/Abubakr9423">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
 </p>
-
----
 
 <div align="center">
 
 ### 💚 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=120&section=footer"/>
 
 </div>
