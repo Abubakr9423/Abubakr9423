@@ -16,15 +16,20 @@
 
 ## 💫 About Me
 
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 ```yaml
 name: Abubakr Kurbonov
 role: Frontend Developer
+company: ZaZaTechnologies
 focus: React.js • Next.js • TypeScript
 mission: Build beautiful, fast, and scalable web experiences
 currently_learning: Advanced React architecture & scalable frontend systems
 goal: Become a Senior Frontend Engineer, ship products used by millions
 fun_fact: I turn ☕ coffee into clean, pixel-perfect UI
 ```
+
+<br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -71,6 +76,10 @@ fun_fact: I turn ☕ coffee into clean, pixel-perfect UI
 ## 💻 Skills
 
 <p align="center">
+<img width="260" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif">
+</p>
+
+<p align="center">
 
 `React.js`&nbsp;&nbsp;![95%](https://progress-bar.dev/95?color=22C55E&width=200)
 
@@ -96,7 +105,9 @@ fun_fact: I turn ☕ coffee into clean, pixel-perfect UI
 
 <div align="center">
 
-### 💚 ZaZaTechnologies
+### 💚 I currently work at ZaZaTechnologies
+
+<img width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Building modern web applications and digital solutions with a focus on:
 
