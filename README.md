@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=220&section=header&text=Abubakr%20Kurbonov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Specialist&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=220&section=header&text=Abubakr%20Ilyosov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20and%20Next.js%20Specialist&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+Developer+%E2%9A%9B%EF%B8%8F;TypeScript+Enthusiast+%F0%9F%9A%80;Building+Modern+Web+Applications+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%8C%B1" />
 
@@ -19,7 +19,7 @@
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ```yaml
-name: Abubakr Kurbonov
+name: Abubakr Ilyosov
 role: Frontend Developer
 company: ZaZaTechnologies
 focus: React.js • Next.js • TypeScript
@@ -55,8 +55,8 @@ fun_fact: I turn ☕ coffee into clean, pixel-perfect UI
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abubakr9423&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=00000000&title_color=22C55E&icon_color=22C55E&text_color=ffffff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr9423&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=ffffff"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Abubakr9423&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=00000000&title_color=22C55E&icon_color=22C55E&text_color=ffffff"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abubakr9423&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=ffffff"/>
 </p>
 
 <p align="center">
@@ -81,21 +81,21 @@ fun_fact: I turn ☕ coffee into clean, pixel-perfect UI
 
 <p align="center">
 
-`React.js`&nbsp;&nbsp;![95%](https://progress-bar.dev/95?color=22C55E&width=200)
+`React.js`&nbsp;&nbsp;![95%](https://img.shields.io/badge/95%25-22C55E?style=flat-square)
 
-`Next.js`&nbsp;&nbsp;![92%](https://progress-bar.dev/92?color=22C55E&width=200)
+`Next.js`&nbsp;&nbsp;![92%](https://img.shields.io/badge/92%25-22C55E?style=flat-square)
 
-`TypeScript`&nbsp;&nbsp;![88%](https://progress-bar.dev/88?color=22C55E&width=200)
+`TypeScript`&nbsp;&nbsp;![88%](https://img.shields.io/badge/88%25-22C55E?style=flat-square)
 
-`JavaScript`&nbsp;&nbsp;![95%](https://progress-bar.dev/95?color=22C55E&width=200)
+`JavaScript`&nbsp;&nbsp;![95%](https://img.shields.io/badge/95%25-22C55E?style=flat-square)
 
-`Tailwind CSS`&nbsp;&nbsp;![94%](https://progress-bar.dev/94?color=22C55E&width=200)
+`Tailwind CSS`&nbsp;&nbsp;![94%](https://img.shields.io/badge/94%25-22C55E?style=flat-square)
 
-`HTML`&nbsp;&nbsp;![100%](https://progress-bar.dev/100?color=22C55E&width=200)
+`HTML`&nbsp;&nbsp;![100%](https://img.shields.io/badge/100%25-22C55E?style=flat-square)
 
-`CSS`&nbsp;&nbsp;![98%](https://progress-bar.dev/98?color=22C55E&width=200)
+`CSS`&nbsp;&nbsp;![98%](https://img.shields.io/badge/98%25-22C55E?style=flat-square)
 
-`SASS`&nbsp;&nbsp;![90%](https://progress-bar.dev/90?color=22C55E&width=200)
+`SASS`&nbsp;&nbsp;![90%](https://img.shields.io/badge/90%25-22C55E?style=flat-square)
 
 </p>
 
